@@ -1,0 +1,78 @@
+/* CSS PAGE DETAILFILMS */
+.film-Detail{
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+    
+}
+.img-detailFilm{
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.voteDetail{
+    align-items: center;
+    justify-content: center;
+}
+.bd-voteDetail{
+    text-align: center;
+    font-size: 25px;
+    line-height: 80px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 8px solid #0ad80a;
+}
+.voteDetail .icon-star{
+    font-size: 20px;
+}
+#pills-tabContent-detail{
+    padding: 10px;
+    border: 2px solid white;
+    background-color:rgba(20,50,93,.9);
+    border-radius: 15px;
+}
+.ant-tabs-tab-btn{
+    width: 100%;
+}
+.ant-tabs-left > .ant-tabs-nav .ant-tabs-tab{
+    /* margin: 0 !important; */
+    text-align: left !important;
+    /* border-bottom: 1px solid #949494 ; */
+}
+.ant-tabs-ink-bar{
+    background-color: orange !important;
+}
+.ant-tabs-content-holder{
+    height: 500px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    cursor: pointer;
+}
+.ant-tabs-content-holder::-webkit-scrollbar{
+    width: 3px;
+}
+.ant-tabs-content-holder::-webkit-scrollbar-thumb{
+    background-color: orange;
+}
+.ant-tabs-content-holder::-webkit-scrollbar-track{
+    background-color: white;
+}
+.showtime-detail{
+    width: 700px;
+    border-bottom: 1px solid #efa318;
+}
+.showtime-detail .btn-time:hover{
+    background-color: white;
+}
+.detail-reviews{
+    background-color: #f3d9aa;
+    color: black;
+    font-weight: 500;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+.icon-star{
+    color:#efa318 ;
+}

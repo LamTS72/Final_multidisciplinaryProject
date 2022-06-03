@@ -1,0 +1,52 @@
+/* CSS CHECKOUT PAGE */
+.check-out-page{
+    font-size: 16px;
+    font-weight: 400;
+    /* color: white; */
+    color: black;
+    /* background-color: rgba(20,50,93,.9); */
+    background-color: white;
+}
+.checkout-text-info{
+    color: #0ad80a;
+    color: orange;
+    margin-left: 10px;
+}
+.checkout-button-buy{
+    width: 100%;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgb(6, 153, 6);
+    background-color: orange;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.checkout-button-buy:hover{
+    background-color: rgb(255, 206, 116);
+    color:white;
+}
+.ghe{
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    background-color: rgb(125, 120, 120);
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+.gheDaDat{
+    background-color: rgb(225, 67, 67) !important;
+    cursor: no-drop;
+}
+.gheVip{
+    background-color: rgb(255, 165, 0);
+}
+.gheDangDat{
+    background-color: rgb(10, 195, 10);
+}
+.gheMinhDat{
+    color: orange;
+    background-color: papayawhip !important;
+}

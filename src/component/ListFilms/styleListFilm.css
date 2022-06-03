@@ -1,0 +1,59 @@
+/* CSS LISTFILMS COMPONENT */
+.listfilms{
+    margin-top: 70px;
+    padding-bottom: 50px;
+}
+.listfilms .carousel-inner{
+    overflow: unset;
+}
+.carousel-item .card{
+    height: 430px;
+    border: none;
+    border-radius: 15px;
+    background-color: inherit;
+}
+.carousel-item .card-img-top{
+    height: 350px;
+    border-radius: 10px;
+}
+.carousel-item .animation-overlay{
+    border-radius: 10px;
+}
+.carousel-item .card .card-body{
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding: 6px !important;
+}
+.carousel-item .card-body .card-title{
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+.listfilms .img-animation:hover .animation-overlay{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.listfilm-btn-buy{
+    padding: 10px 30px;
+    /* background-color:rgb(6, 153, 6) */
+    background-color: rgb(241, 123, 12);
+    color: white;
+    font-size: 20px;
+}
+.listfilm-btn-buy:hover{
+    /* background-color: rgb(241, 123, 12); */
+    background-color:  rgb(255, 206, 116);
+    color: white;
+}
+.film-age{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    /* background-color: rgb(241, 123, 12); */
+    background-color: papayawhip;
+}

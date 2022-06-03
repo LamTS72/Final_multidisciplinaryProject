@@ -1,0 +1,95 @@
+/* CSS GLOBAL */
+body p{
+  margin-bottom: 0;
+}
+/* css animation khi hover vào ảnh */
+.img-animation{
+  position: relative;
+}
+.animation-overlay{
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  display: none;
+}
+.img-animation:hover .animation-overlay{
+  display: block;
+  background-color: rgba(20,50,93,.8);
+}
+
+/* CSS DÙNG CHUNG CHO CAROUSEL */
+.carousel-control-prev-icon{
+  background-image: url(./asset/image/icon-prev.png);
+}
+.carousel-control-next-icon{
+  background-image: url(./asset/image/icon-next.png);
+}
+.carousel-control-next-icon, .carousel-control-prev-icon{
+  width: 40px;
+  height: 40px;
+}
+.carousel-fade .carousel-item {
+opacity: 0;
+transition-duration: .6s;
+transition-property: opacity;
+}
+
+.carousel-fade .carousel-item.active,
+.carousel-fade .carousel-item-next.carousel-item-left,
+.carousel-fade .carousel-item-prev.carousel-item-right {
+opacity: 1;
+}
+
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-right {
+opacity: 0;
+}
+
+.carousel-fade .carousel-item-next,
+.carousel-fade .carousel-item-prev,
+.carousel-fade .carousel-item.active,
+.carousel-fade .active.carousel-item-left,
+.carousel-fade .active.carousel-item-prev {
+transform: translateX(0);
+transform: translate3d(0, 0, 0);
+}
+
+/* CSS DÙNG CHUNG CHO TABPANE */
+.pills-tab-movie{
+  justify-content: center;
+  font-size: 16px;
+  font-weight: 600;
+}
+.pills-tab-movie .nav-item{
+  width: 180px;
+  margin-right: 10px;
+  text-align: center;
+}
+.pills-tab-movie .nav-item .nav-link:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(255, 153, 0);
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+  background-color: orange;
+}
+.nav-pills .nav-link{
+  background-color: papayawhip;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

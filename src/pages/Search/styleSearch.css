@@ -1,0 +1,24 @@
+/* CSS PAGE SEARCH */
+.listFilmSearch{
+    height: 700px;
+    background-image: url(../../asset/image/bg-night-home-1.jpg);
+    overflow: hidden;
+    padding-top: 76px;
+}
+.listFilmSearch .img-animation{
+    width: 350px;
+    height: 300px;
+    box-shadow: 1px 1px 10px 1px #888888;
+}
+.search-content{
+    height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.search-content::-webkit-scrollbar{
+    width: 3px;
+    background-color: white;
+}
+.search-content::-webkit-scrollbar-thumb{
+    background-color: orange;
+}

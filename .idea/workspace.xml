@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b5dbed5-6035-4bec-b9b3-9d1de631fd1e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/LoadingAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/LoadingAction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/action/UserAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/action/UserAction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/ListFilms/ListFilm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ListFilms/ListFilm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Checkout/Checkout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UserAccount/UserAccount.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserAccount/UserAccount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/UserAccount/UserHistory/UserHistory.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserAccount/UserHistory/UserHistory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/Reducer/UseReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/Reducer/UseReducer.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29uKV0SCcqFNHf1yrW3GJEs614h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b5dbed5-6035-4bec-b9b3-9d1de631fd1e" name="Changes" comment="" />
+      <created>1653957560374</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653957560374</updated>
+    </task>
+    <servers />
+  </component>
+</project>

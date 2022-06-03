@@ -1,0 +1,63 @@
+/* CSS MEDIA COMPONENT */
+.media{
+    background-color: #f7f6f6;
+    padding-top: 80px;
+    padding-bottom: 100px;
+}
+
+/* css phần blog điện ảnh  */
+#pills-blog-media .card{
+    height: 370px;
+    border: none;
+    border-radius: 15px;
+    background-color: inherit;
+}
+#pills-blog-media .card-img-top{
+    height: 250px;
+    border-radius: 10px;
+}
+#pills-blog-media .animation-overlay{
+    border-radius: 10px;
+}
+#pills-blog-media .card-body{
+    padding: 10px 0;
+}
+#pills-blog-media .card-body .card-title{
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+#pills-blog-media .card-body .card-title:hover{
+    color: red;
+}
+#pills-blog-media .card-body .card-text{
+    color: black;
+}
+
+/* css phần reviews */
+#pills-review-media .content-title:hover{
+    color:red;
+}
+#pills-review-media .content-review{
+    color: black;
+}
+#pills-review-media .btn-review:hover{
+    background-color: orange;
+    border: 1px solid orange;
+}
+
+/* css phần khuyến mãi */
+#carouselMediaControls img{
+    border-radius: 15px;
+}
+#carouselMediaControls .animation-overlay{ 
+    padding: 30% 10%;
+    border-radius: 15px;
+}
+.img-animation:hover .animation-overlay{
+    display: block;
+    background-color: rgba(20,50,93,.8);
+}
+.animation-overlay h4, .animation-overlay h6{
+    color: white;
+}

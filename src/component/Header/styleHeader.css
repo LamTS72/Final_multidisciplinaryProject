@@ -1,0 +1,61 @@
+/* CSS HEADER COMPONENT */
+.navbar-text{
+    display: flex;
+    font-size: 16px;
+}
+.navbar-text .nav-item .nav-link{
+    color: black;
+}
+.navbar-text .nav-item .nav-link:hover{
+    color: red;
+}
+.logo-top{
+    margin-right: 250px;
+}
+.user-login{
+    display: flex;
+}
+.btn-user{
+    width: auto;
+    height: 38px;
+    text-align: center;
+    background-color: #28a745;
+    border-radius: 10px;
+    border: none;
+}
+.btnLog{
+    width: 110px;
+    height: 38px;
+    /* background-color: #28a745; */
+    /* background-color: rgb(247, 34, 34); */
+    background-color: orange;
+    border-radius: 10px;
+    border: none;
+}
+.btnLog:hover{
+    background-color: rgb(255, 206, 116);
+}
+.dropdown-menu{
+    box-shadow: 5px 5px 15px 3px #888888;
+}
+.btn-user-event:hover{
+    background-color: green;
+    color: white !important;
+}
+.searchMovie{
+    border: 1px solid #bdbbbb;
+    border-radius: 15px;
+}
+.input-search{
+    border: none;
+    border-radius: 15px;
+}
+.form-control:focus{
+    box-shadow: none !important;
+}
+.btn-search{
+    background-color: inherit;
+    border: none;
+    border-left: 1px solid #bdbbbb;
+    
+}

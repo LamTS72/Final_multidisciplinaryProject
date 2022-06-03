@@ -1,0 +1,26 @@
+/* CSS CAROUSEL COMPONENT */
+#carouselMovieControls{
+    height: 600px;
+    overflow: hidden;
+}
+#carouselMovieControls .carousel-item{
+    height: 600px;
+}
+.carousel-item .img-carousel{
+    display: block;
+    width: 100%;
+}
+.carousel-caption{
+    top: 40%;
+    bottom: 45%;
+    left: 45%;
+    right: 45%;
+    display: none;
+}
+.icon-play{
+    border: none;
+    background-color: inherit;
+}
+.carousel-item:hover .carousel-caption{
+    display: block;
+}

@@ -1,0 +1,41 @@
+/* CSS FOOTER COMPONENT */
+.footer{
+    background-color: #222;
+    color: #949494;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.footer h6{
+    color: white;
+    margin-bottom: 20px;
+}
+.infoMovie{
+    border-bottom: 1px solid #949494;
+}
+.footer .infoMovie ul{
+    list-style: none;
+    padding-inline-start:0;
+}
+.footer .infoMovie ul li{
+    margin-bottom: 8px;
+}
+.footer .infoMovie ul li a{
+    color: #949494;
+}
+.footer .infoMovie ul li a:hover{
+    color: white;
+}
+.footer .img-partner{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.infoMovie .animation-overlay{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.footer-logo{
+    width: 200px;
+    height: 100px;
+}
