@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<p align="center"> <img width = "80%" height = "80%" src="image/Screenshot_1.png"/>  </p>
+<p align="center"> <img width = "80%" height = "80%" public="300132307_1073987359920895_5921575442240868697_n.png"/>  </p>
 
 ### `npm test`
 
